@@ -1,0 +1,31 @@
+{
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.2.5"
+  },
+  "name": "starfiles-network",
+  "version": "1.0.0",
+  "description": "A crypto network.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuixThe2nd/Starfiles-Network.git"
+  },
+  "keywords": [
+    "starfiles",
+    "crypto",
+    "network"
+  ],
+  "author": "DwifteJB+QuixThe2nd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuixThe2nd/Starfiles-Network/issues"
+  },
+  "homepage": "https://github.com/QuixThe2nd/Starfiles-Network#readme"
+}

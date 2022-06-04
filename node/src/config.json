@@ -1,0 +1,7 @@
+{
+    "url": "localhost",
+    "port": 80,
+    "settings": {
+        "example": "example"
+    }
+}

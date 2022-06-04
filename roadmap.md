@@ -1,5 +1,5 @@
 # Roadmap
-1. Announcing and sharing nodes
+1. Announcing and sharing nodes 
 2. Sharing messages between nodes
 3. Allowing the creation of sub-currencies
 4. Allowing the transfer of sub-currency tokens
