@@ -1,0 +1,16 @@
+# Retrieve nodes
+Get a list of nodes another node uses.
+
+## Request
+**URL:** https://node.example.com/nodes
+**Method:** GET
+
+## Response
+[
+    {
+        "url":"node.example.net"
+    },
+    {
+        "url":"node.example.co"
+    }
+]
